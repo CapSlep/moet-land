@@ -1,7 +1,7 @@
 class Notify {
     constructor(container) {
         this.lang = {
-            from: "aus",
+            from: "de",
         };
 
         this.container = document.querySelector(container);
@@ -63,15 +63,15 @@ class Notify {
 const data = [
     {
         name: "Vernay Vio****",
-        address: "Zürich, Schweiz",
-        desc: "Gewonnen eine Packung mit 6 Flaschen muss Chandon Coffret Brut Impérial sein",
+        address: "Zurich, Suisse",
+        desc: "Gagné un paquet de 6 bouteilles doit être Chandon Coffret Brut Impérial",
         img: "./assets/prize.png",
         time: "15 sec",
     },
     {
         name: "Solaina La****",
-        address: "Genf, Schweiz",
-        desc: "Gewann eine 6-Pack-Flaschenbox Moet & Chandon Grove Flaschenflaschen.",
+        address: "Genève, Suisse",
+        desc: "A remporté une boîte à bouteille de 6 packs Moet & Chandon Grove Bottle Bottles.",
         img: "./assets/prize.png",
         time: "25 sec",
     },

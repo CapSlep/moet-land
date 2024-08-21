@@ -43,41 +43,41 @@ const siteKey = "moet-gb";
   const reviewsArr = [
     {
       name: "Josefien",
-      time: "Vor 1 Tag",
-      header: "Das ist unerwartet!",
+      time: "Il y a 1 jour",
+      header: "C'est inattendu!",
       product: "2646878552",
       image: "./assets/1.jpg",
-      review: "Ich habe gestern einen Eintrag verlassen, aber meine Schwester hat bereits ihre Moet -Box erhalten.Sie nahm eine Woche zuvor teil und ich beschloss zu warten, bis sie die Schachtel bekam, um zu sehen, ob es wahr war oder nicht.",
+      review: "J'ai laissé une entrée hier, mais ma sœur a déjà reçu sa boîte MOET.Elle a participé une semaine plus tôt et j'ai décidé d'attendre d'avoir obtenu la boîte pour voir si c'était vrai ou non.",
     },
     {
       name: "Anton",
-      time: "Vor 2 Tagen",
-      header: "Fantastisch!Ich bin sprachlos.",
+      time: "Il y a 2 jours",
+      header: "Fantastique!.",
       product: "26468789",
       image: "./assets/2.jpg",
-      review: "Ich nahm am Verkauf teil und erhielt heute mein Paket, 6 Flaschen für nur 2 CHF.",
+      review: "J'ai participé à la vente et j'ai reçu mon colis aujourd'hui, 6 bouteilles pour juste CHF 2.",
     },
     {
       name: "Jan",
-      time: "2 days ago",
-      header: "I love.",
+      time: "Il y a 2 jours",
+      header: "J'aime.",
       product: "26468783",
-      review: "Danke Tesco für diesen Verkauf, habe gerade bei meinem ersten Versuch eine Schachtel Champagner gewonnen.Ich bekam einen Anruf und ein Liefertermin wurde vereinbart.",
+      review: "Merci Tesco pour cette vente, je viens de gagner une boîte de champagne lorsque j'ai essayé pour la première fois..",
     },
     {
       name: "Nico",
-      time: "4 days ago",
-      header: "Simply great",
+      time: "Il y a 4 jours",
+      header: "Tout simplement génial",
       image: "./assets/3.jpg",
-      review: "Es ist wahr, ich habe gerade ein Paket geliefert, ich kann immer noch nicht glauben, dass ich es nur für 2 CHF bekommen habe.",
+      review: "C'est vrai, je viens de livrer un colis, je ne peux toujours pas croire que je ne l'ai obtenu que pour CHF 2.",
     },
     {
       name: "Jackson",
-      time: "7 days ago",
-      header: "Wow, ich bin absolut beeindruckt von diesem Produkt!",
+      time: "Il y a 7 jours",
+      header: "Wow, je suis absolument impressionné par ce produit!",
       product: "26468784",
       image: "./assets/4.jpg",
-      review: "Die Lieferung verzögerte sich um zwei Tage, aber ich bin immer noch sehr zufrieden mit dem Kauf!",
+      review: "La livraison a été retardée de deux jours, mais je suis toujours très satisfait de l'achat!",
     },
   ];
 
@@ -85,7 +85,7 @@ const siteKey = "moet-gb";
     reviews: reviewsArr,
     rr: "",
     percent: "99%",
-    rec: "Feedback von Kunden, die das Produkt erhalten haben",
+    rec: "Les commentaires des clients qui ont reçu le produit",
   };
 
   const questions = {
