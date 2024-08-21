@@ -43,41 +43,41 @@ const siteKey = "moet-gb";
   const reviewsArr = [
     {
       name: "Josefien",
-      time: "1 day ago",
-      header: "This is unexpected!",
+      time: "Vor 1 Tag",
+      header: "Das ist unerwartet!",
       product: "2646878552",
       image: "./assets/1.jpg",
-      review: "Just left an entry yesterday, but my sister has already received her Moet box. She participated a week earlier and I decided to wait until she got the box to see if it was true or not.",
+      review: "Ich habe gestern einen Eintrag verlassen, aber meine Schwester hat bereits ihre Moet -Box erhalten.Sie nahm eine Woche zuvor teil und ich beschloss zu warten, bis sie die Schachtel bekam, um zu sehen, ob es wahr war oder nicht.",
     },
     {
       name: "Anton",
-      time: "2 days ago",
-      header: "Fantastic! I'm speechless.",
+      time: "Vor 2 Tagen",
+      header: "Fantastisch!Ich bin sprachlos.",
       product: "26468789",
       image: "./assets/2.jpg",
-      review: "I took part in the sale and received my parcel today, 6 bottles for only £2.",
+      review: "Ich nahm am Verkauf teil und erhielt heute mein Paket, 6 Flaschen für nur 2 CHF.",
     },
     {
       name: "Jan",
       time: "2 days ago",
       header: "I love.",
       product: "26468783",
-      review: "Thanks Tesco for this sale, just won a box of champagne on my first attempt. I got a call and a delivery date was agreed.",
+      review: "Danke Tesco für diesen Verkauf, habe gerade bei meinem ersten Versuch eine Schachtel Champagner gewonnen.Ich bekam einen Anruf und ein Liefertermin wurde vereinbart.",
     },
     {
       name: "Nico",
       time: "4 days ago",
       header: "Simply great",
       image: "./assets/3.jpg",
-      review: "It's true, I've just had a parcel delivered, I still can't believe I got it for only £2.",
+      review: "Es ist wahr, ich habe gerade ein Paket geliefert, ich kann immer noch nicht glauben, dass ich es nur für 2 CHF bekommen habe.",
     },
     {
       name: "Jackson",
       time: "7 days ago",
-      header: "Wow, I am absolutely impressed with this product!",
+      header: "Wow, ich bin absolut beeindruckt von diesem Produkt!",
       product: "26468784",
       image: "./assets/4.jpg",
-      review: "Delivery was delayed by two days, but I'm still very happy with the purchase!",
+      review: "Die Lieferung verzögerte sich um zwei Tage, aber ich bin immer noch sehr zufrieden mit dem Kauf!",
     },
   ];
 
@@ -85,7 +85,7 @@ const siteKey = "moet-gb";
     reviews: reviewsArr,
     rr: "",
     percent: "99%",
-    rec: "Feedback from customers who have received the product",
+    rec: "Feedback von Kunden, die das Produkt erhalten haben",
   };
 
   const questions = {
